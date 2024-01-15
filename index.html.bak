@@ -9,7 +9,8 @@
     <link rel="stylesheet" href="assets/css/main.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
   </head>
-  <body class="is-preload"> <!-- Wrapper -->
+  <body class="is-preload">
+    <!-- Wrapper -->
     <div id="wrapper">
       <!-- Header -->
       <header id="header">
@@ -35,8 +36,7 @@
         <!-- Intro -->
         <article id="intro">
           <h2 class="major">Intro</h2>
-          <img src="file:///C:/Users/NAIM/Desktop/drone.jpg" alt="dr" title="drone"
-
+          <img src="file:///C:/Users/NAIM/Desktop/drone.jpg" alt="dr" title="drone"
             style="width: 547px; height: 299px;"><br>
           <!--[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>  <o:AllowPNG/> </o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml>
@@ -95,14 +95,12 @@ mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-lis
               </span></span></p>
           <p class="MsoListParagraphCxSpFirst" style="margin-left:53.25pt;mso-add-space:
 auto;text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
-
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
                   style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   </span></span></span>Coût des fongicides</p>
           <p class="MsoListParagraphCxSpLast" style="margin-left:53.25pt;mso-add-space:
 auto;text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
-
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
                   style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   </span></span></span>Perte des plants</p>
           <p class="MsoNormal">Pourquoi cela persiste t-il&nbsp;?</p>
@@ -137,8 +135,7 @@ mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-lis
    Name="Smart Link"/> </w:LatentStyles></xml><![endif]--><!--[if gte mso 10]>
 <style> /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Tableau Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-parent:"";	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin-top:0cm;	mso-para-margin-right:0cm;	mso-para-margin-bottom:8.0pt;	mso-para-margin-left:0cm;	line-height:107%;	mso-pagination:widow-orphan;	font-size:11.0pt;	font-family:"Calibri",sans-serif;	mso-ascii-font-family:Calibri;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Calibri;	mso-hansi-theme-font:minor-latin;	mso-bidi-font-family:"Times New Roman";	mso-bidi-theme-font:minor-bidi;	mso-fareast-language:EN-US;}</style><![endif]--><br>
           <p><a href="#work"><!--[if gte mso 9]><xml>
- <o:OfficeDocumentSettings>  <o:AllowPNG/> </o:OfficeDocumentSettings></xml><![endif]--></a><a
-
+ <o:OfficeDocumentSettings>  <o:AllowPNG/> </o:OfficeDocumentSettings></xml><![endif]--></a><a
               href="#work"><!--[if gte mso 9]><xml>
  <w:WordDocument>  <w:View>Normal</w:View>  <w:Zoom>0</w:Zoom>  <w:TrackMoves/>  <w:TrackFormatting/>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:DoNotPromoteQF/>  <w:LidThemeOther>FR</w:LidThemeOther>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>   <w:SplitPgBreakAndParaMark/>   <w:EnableOpenTypeKerning/>   <w:DontFlipMirrorIndents/>   <w:OverrideTableStyleHps/>  </w:Compatibility>  <m:mathPr>   <m:mathFont m:val="Cambria Math"/>   <m:brkBin m:val="before"/>   <m:brkBinSub m:val="&#45;-"/>   <m:smallFrac m:val="off"/>   <m:dispDef/>
    <m:lMargin m:val="0"/>   <m:rMargin m:val="0"/>   <m:defJc m:val="centerGroup"/>   <m:wrapIndent m:val="1440"/>   <m:intLim m:val="subSup"/>   <m:naryLim m:val="undOvr"/>  </m:mathPr></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml>
@@ -167,8 +164,7 @@ mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-lis
         <!-- Work -->
         <article id="work">
           <h2 class="major">fonctionnement</h2>
-          <img src="file:///C:/Users/NAIM/Desktop/formation-drone-agriculture.jpeg"
-
+          <img src="file:///C:/Users/NAIM/Desktop/formation-drone-agriculture.jpeg"
             alt="agr" title="agric_drone" style="width: 544px; height: 381px;"><br>
           <a href="#work">Terravision est un drone équipé d’un module camera à
             haute résolution survole la plantation et réalise des captures
@@ -183,34 +179,29 @@ mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-lis
           <p class="MsoNormal">Avantages&nbsp;:</p>
           <p class="MsoListParagraphCxSpFirst" style="margin-left:53.25pt;mso-add-space:
 auto;text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
-
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
                   style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   </span></span></span>Détection rapide des menaces</p>
           <p class="MsoListParagraphCxSpMiddle" style="margin-left:53.25pt;mso-add-space:
 auto;text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
-
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
                   style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   </span></span></span>Identification de la menace</p>
           <p class="MsoListParagraphCxSpMiddle" style="margin-left:53.25pt;mso-add-space:
 auto;text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
-
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
                   style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   </span></span></span>Avertir l’agriculteur sur le potentiel
             danger de la menace</p>
           <p class="MsoListParagraphCxSpMiddle" style="margin-left:53.25pt;mso-add-space:
 auto;text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
-
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
                   style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   </span></span></span>Partage des données de localisation de la
             menace</p>
           <p class="MsoListParagraphCxSpLast" style="margin-left:53.25pt;mso-add-space:
 auto;text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
-
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span
                   style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   </span></span></span>Permet de mettre en place un traitement
             ciblé…</p>
@@ -241,8 +232,7 @@ mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-lis
         <!-- About -->
         <article id="about">
           <h2 class="major">About</h2>
-          <img src="file:///C:/Users/NAIM/Desktop/agriculteur.jpg" alt="agriculteur"
-
+          <img src="file:///C:/Users/NAIM/Desktop/agriculteur.jpg" alt="agriculteur"
             title="agriculteur" style="width: 547px; height: 408px;"><br>
           <p><br>
           </p>
@@ -252,14 +242,11 @@ mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-lis
           <h2 class="major">Contactez nous</h2>
           <form method="post" action="#">
             <div class="fields">
-              <div class="field half">&nbsp; <label for="name">Nom</label><input
-
+              <div class="field half">&nbsp; <label for="name">Nom</label><input
                   name="name" id="name" type="text"> </div>
-              <div class="field half"> <label for="email">Email</label> <input
-
+              <div class="field half"> <label for="email">Email</label> <input
                   name="email" id="email" type="text"> </div>
-              <div class="field"> <label for="message">Message</label> <textarea
-
+              <div class="field"> <label for="message">Message</label> <textarea
 name="message" id="message" rows="4"></textarea> </div>
             </div>
             <ul class="actions">
