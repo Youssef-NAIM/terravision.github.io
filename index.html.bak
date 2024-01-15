@@ -1759,19 +1759,19 @@ mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-lis
         </article>
         <!-- Contact -->
         <article id="contact">
-          <h2 class="major">Contact</h2>
+          <h2 class="major">Contactez nous</h2>
           <form method="post" action="#">
             <div class="fields">
-              <div class="field half"> <label for="name">Name</label> <input name="name"
-                  id="name" type="text"> </div>
+              <div class="field half">&nbsp; <label for="name">Nom</label><input
+                  name="name" id="name" type="text"> </div>
               <div class="field half"> <label for="email">Email</label> <input
                   name="email" id="email" type="text"> </div>
               <div class="field"> <label for="message">Message</label> <textarea
 name="message" id="message" rows="4"></textarea> </div>
             </div>
             <ul class="actions">
-              <li><input value="Send Message" class="primary" type="submit"></li>
-              <li><input value="Reset" type="reset"></li>
+              <li><input value="Envoyer" class="primary" type="submit"></li>
+              <li><input value="annuler" type="reset"></li>
             </ul>
           </form>
           <ul class="icons">
