@@ -68,21 +68,7 @@ mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-lis
           <p class="MsoNormal">&nbsp;</p>
           <!--[if gte mso 9]><xml>
  
-        <article id="work">
-          <h2 class="major">fonctionnement</h2>
-          <img src="file:///C:/Users/NAIM/Documents/GitHub/terravision.github.io/agriculteur.jpg"
-
-            alt="agr" title="agric_drone" style="width: 544px; height: 381px;"><br>
-          <a href="#work">Terravision est un drone équipé d’un module camera à
-            haute résolution survole la plantation et réalise des captures
-            d’images des cultures (feuilles).Les images ainsi que les
-            coordonnées GPS du lieu de la prise d’image sont envoyées pour être
-            analysées à partir d’un algorithme de détection d’objet. S’ildétecte
-            une menace, une alerte est envoyée sur l’application de
-            l’agriculteur, c'est somme ça on sauve ta vie.</a><br>
-          <br>
-          <!--[if gte mso 9]><xml>
- <o:OfficeDocumentSettings>  <o:AllowPNG/> </o:OfficeDocumentSettings></xml><![endif]-->
+       
           <p class="MsoNormal">Avantages&nbsp;:</p>
           <p class="MsoListParagraphCxSpFirst" style="margin-left:53.25pt;mso-add-space:
 auto;text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
